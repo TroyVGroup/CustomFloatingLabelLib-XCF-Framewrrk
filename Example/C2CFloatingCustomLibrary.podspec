@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'C2CFloatingCustomLibrary'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of C2CFloatingCustomLibrary.'
+  s.summary          = 'C2CFloatingCustomLibrary implements the "Float Label Pattern," keeping labels visible while typing. It enhances clarity, saves space, and offers flexibility for customization.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+   C2CFloatingCustomLibrary is a sleek, flexible, and customizable implementation of the space-saving "Float Label Pattern." This design provides contextual input field labels that remain visible while typing, minimizing extra space usage.
                        DESC
 
   s.homepage         = 'https://github.com/TroyVGroup/CustomFloatingLabelLib-XCF-Framewrrk'
