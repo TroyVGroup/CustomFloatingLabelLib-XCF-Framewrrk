@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'C2CFloatingCustomLibrary'
-  s.version          = '0.1.0'
+  s.version          = '1.0'
   s.summary          = 'C2CFloatingCustomLibrary implements the "Float Label Pattern," keeping labels visible while typing. It enhances clarity, saves space, and offers flexibility for customization.'
 
 # This description is used to generate tags and improve search results.
