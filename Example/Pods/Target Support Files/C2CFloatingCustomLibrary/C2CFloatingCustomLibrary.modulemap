@@ -1,0 +1,6 @@
+framework module C2CFloatingCustomLibrary {
+  umbrella header "C2CFloatingCustomLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

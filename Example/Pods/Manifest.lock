@@ -1,0 +1,16 @@
+PODS:
+  - C2CFloatingCustomLibrary (0.1.0)
+
+DEPENDENCIES:
+  - C2CFloatingCustomLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  C2CFloatingCustomLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  C2CFloatingCustomLibrary: 69f75a093d0ff59358110a77d67a20ae50f7338c
+
+PODFILE CHECKSUM: c6d24a79d472b15619a48328a775fc2e8f6580a2
+
+COCOAPODS: 1.16.2

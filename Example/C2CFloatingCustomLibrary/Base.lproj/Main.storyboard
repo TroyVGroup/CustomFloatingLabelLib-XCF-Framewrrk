@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="vXZ-lx-hvc">
+    <device id="retina6_9" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="ufC-wZ-h7g">
+            <objects>
+                <viewController id="vXZ-lx-hvc" customClass="ViewController" customModule="C2CFloatingCustomLibrary_Example" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="jyV-Pf-zRb"/>
+                        <viewControllerLayoutGuide type="bottom" id="2fi-mo-0CV"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kh9-bI-dsS">
+                        <rect key="frame" x="0.0" y="0.0" width="440" height="956"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="30" translatesAutoresizingMaskIntoConstraints="NO" id="i6V-7h-EZh">
+                                <rect key="frame" x="20" y="284" width="400" height="388"/>
+                                <subviews>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8L9-0r-ae5" customClass="C2CSdkFloatingLabelTextFieldView" customModule="C2CFloatingLabelLibrary">
+                                        <rect key="frame" x="0.0" y="0.0" width="400" height="60"/>
+                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="60" id="9yf-ZH-AE4"/>
+                                        </constraints>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="string" keyPath="PlaceHolder" value="Address*"/>
+                                        </userDefinedRuntimeAttributes>
+                                    </view>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4RG-6e-2Zv" customClass="C2CSdkFloatingLabelBorderLine" customModule="C2CFloatingLabelLibrary">
+                                        <rect key="frame" x="0.0" y="90" width="400" height="60"/>
+                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="60" id="avF-nU-1Os"/>
+                                        </constraints>
+                                    </view>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="IQm-gZ-loK" customClass="C2CFloatingLabelTextView" customModule="C2CFloatingLabelLibrary">
+                                        <rect key="frame" x="0.0" y="180" width="400" height="208"/>
+                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                    </view>
+                                </subviews>
+                            </stackView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ad5-iV-HaL">
+                                <rect key="frame" x="189" y="749" width="62" height="30"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="Continue"/>
+                                <connections>
+                                    <action selector="actionOnContinueBtn:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="rdG-9R-emT"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="Ad5-iV-HaL" firstAttribute="top" secondItem="i6V-7h-EZh" secondAttribute="bottom" constant="77" id="J2u-4Y-J6O"/>
+                            <constraint firstItem="Ad5-iV-HaL" firstAttribute="centerX" secondItem="kh9-bI-dsS" secondAttribute="centerX" id="hED-CD-icP"/>
+                            <constraint firstItem="i6V-7h-EZh" firstAttribute="centerX" secondItem="Ad5-iV-HaL" secondAttribute="centerX" id="hbQ-6l-rIc"/>
+                            <constraint firstItem="i6V-7h-EZh" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="jZN-Wf-clB"/>
+                            <constraint firstItem="i6V-7h-EZh" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="222" id="t8y-Fd-brL"/>
+                            <constraint firstItem="i6V-7h-EZh" firstAttribute="centerY" secondItem="kh9-bI-dsS" secondAttribute="centerY" id="wJK-Gg-Sb3"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="emailTextField" destination="8L9-0r-ae5" id="jES-Vh-TTa"/>
+                        <outlet property="messageView" destination="IQm-gZ-loK" id="TLO-3j-flZ"/>
+                        <outlet property="passwordTextBordleLineField" destination="4RG-6e-2Zv" id="5QE-oQ-cfp"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-70.909090909090921" y="-36.401673640167367"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

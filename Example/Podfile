@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'C2CFloatingCustomLibrary_Example' do
+  pod 'C2CFloatingCustomLibrary', :path => '../'
+
+  target 'C2CFloatingCustomLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

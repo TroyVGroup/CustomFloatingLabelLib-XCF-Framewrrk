@@ -1,0 +1,6 @@
+framework module C2CFloatingLabelLibrary {
+  umbrella header "C2CFloatingLabelLibrary.h"
+  export *
+
+  module * { export * }
+}
