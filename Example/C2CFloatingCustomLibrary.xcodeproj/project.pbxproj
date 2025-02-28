@@ -14,7 +14,7 @@
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
-		C91231F12D70A60800B63D67 /* C2CFloatingCustomLibrary.podspec in Resources */ = {isa = PBXBuildFile; fileRef = C91231F02D70A60800B63D67 /* C2CFloatingCustomLibrary.podspec */; };
+		C95823062D7192DA00C1EF5B /* C2CFloatingCustomLibrary.podspec in Resources */ = {isa = PBXBuildFile; fileRef = C95823052D7192DA00C1EF5B /* C2CFloatingCustomLibrary.podspec */; };
 		C9A265952D3B7FD2009EE6F9 /* C2CFloatingLabelLibrary.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9A6644A2D3AA05F003683E7 /* C2CFloatingLabelLibrary.xcframework */; };
 		DA1C02B762034446D43B186E /* Pods_C2CFloatingCustomLibrary_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 575293A790F72B6EAB902A9C /* Pods_C2CFloatingCustomLibrary_Example.framework */; };
 /* End PBXBuildFile section */
@@ -48,7 +48,7 @@
 		99297AC44D39A44712D73937 /* Pods-C2CFloatingCustomLibrary_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-C2CFloatingCustomLibrary_Example.release.xcconfig"; path = "Target Support Files/Pods-C2CFloatingCustomLibrary_Example/Pods-C2CFloatingCustomLibrary_Example.release.xcconfig"; sourceTree = "<group>"; };
 		9F23F98ACB1607E654D3B64C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		C47AE63868050D5FDE11F22C /* Pods_C2CFloatingCustomLibrary_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_C2CFloatingCustomLibrary_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C91231F02D70A60800B63D67 /* C2CFloatingCustomLibrary.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = C2CFloatingCustomLibrary.podspec; sourceTree = "<group>"; };
+		C95823052D7192DA00C1EF5B /* C2CFloatingCustomLibrary.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = C2CFloatingCustomLibrary.podspec; path = ../C2CFloatingCustomLibrary.podspec; sourceTree = SOURCE_ROOT; };
 		C9A6644A2D3AA05F003683E7 /* C2CFloatingLabelLibrary.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = C2CFloatingLabelLibrary.xcframework; path = ../C2CFloatingLabelLibrary.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -147,7 +147,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				C91231F02D70A60800B63D67 /* C2CFloatingCustomLibrary.podspec */,
+				C95823052D7192DA00C1EF5B /* C2CFloatingCustomLibrary.podspec */,
 				56D736AA89C1A159FD538D2D /* README.md */,
 				9F23F98ACB1607E654D3B64C /* LICENSE */,
 			);
@@ -253,7 +253,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C91231F12D70A60800B63D67 /* C2CFloatingCustomLibrary.podspec in Resources */,
+				C95823062D7192DA00C1EF5B /* C2CFloatingCustomLibrary.podspec in Resources */,
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
