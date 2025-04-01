@@ -10,15 +10,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		f8nN2oD8BVUTDHCmzZQdWF5ZreE=
+		8y38jnT7oesGpZrjbTVHPVagx8w=
 		</data>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		BTRPpZajb0U64SOXFty0OprYTjE=
+		d5PSpQsYZwmZoG5A8EH3AllTR9g=
 		</data>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		tmpvID8b5FeNb1IihmCZZ6RvGz0=
+		ug8Z5HuzKT3/agjjy9lg+aessC8=
 		</data>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		tmpvID8b5FeNb1IihmCZZ6RvGz0=
+		ug8Z5HuzKT3/agjjy9lg+aessC8=
 		</data>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		oYCbBaDlOHXSczS5PnVfiMUSgqo=
+		vhQLVpSkyaGDcaeD1ncyt25wXAM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,14 +54,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fM+KmXJhzOwjD/klfcBOnUzJE8OOBujisOhsabnT4xo=
+			zGU7Wyo8HLsV5DYxADPpQEita+79DJDPVhyYth8lhWU=
 			</data>
 		</dict>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lmGfoQbB1kuNwYO9ia6Zq4/kos/DI0M16mw9TkQ8poI=
+			0+wDAemtGJ04jqQ0+6rv6yXVXvRyy7lbdNcz1rXri2Y=
 			</data>
 		</dict>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -75,14 +75,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lmGfoQbB1kuNwYO9ia6Zq4/kos/DI0M16mw9TkQ8poI=
+			0+wDAemtGJ04jqQ0+6rv6yXVXvRyy7lbdNcz1rXri2Y=
 			</data>
 		</dict>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fglk5y6o24MTmokIrcCfTWlvGhqWVSvUsM33G6SF8rk=
+			GtSx2bgX1/2bc0s5JOjjOlD3iUbn5/OaHSM6FdbBxYU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

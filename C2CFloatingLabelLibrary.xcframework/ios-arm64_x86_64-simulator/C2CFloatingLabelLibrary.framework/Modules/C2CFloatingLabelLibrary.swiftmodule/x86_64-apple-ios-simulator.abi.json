@@ -8197,6 +8197,66 @@
         "children": [
           {
             "kind": "Function",
+            "name": "addKeyboardToolbar",
+            "printedName": "addKeyboardToolbar(withDoneButton:clearButtonAction:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIToolbar",
+                "printedName": "UIKit.UIToolbar",
+                "usr": "c:objc(cs)UIToolbar"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC23C2CFloatingLabelLibraryE18addKeyboardToolbar14withDoneButton05clearK6ActionSo9UIToolbarCyyc_yyctFZ",
+            "mangledName": "$sSo6UIViewC23C2CFloatingLabelLibraryE18addKeyboardToolbar14withDoneButton05clearK6ActionSo9UIToolbarCyyc_yyctFZ",
+            "moduleName": "C2CFloatingLabelLibrary",
+            "static": true,
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "addTapGestureRecognizer",
             "printedName": "addTapGestureRecognizer(action:)",
             "children": [
@@ -8352,7 +8412,7 @@
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CFloatingLabelLibrarySDK_Build\/C2CFloatingLabelLibrary\/C2CFloatingLabelLibrary\/C2CUtilitie\/KeyboardExtension.swift",
       "kind": "IntegerLiteral",
-      "offset": 5060,
+      "offset": 5073,
       "length": 1,
       "value": "0"
     },

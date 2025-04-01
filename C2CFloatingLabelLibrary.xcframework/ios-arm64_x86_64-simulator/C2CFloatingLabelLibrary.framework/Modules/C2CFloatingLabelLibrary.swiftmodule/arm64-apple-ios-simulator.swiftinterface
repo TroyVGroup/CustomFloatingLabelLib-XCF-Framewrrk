@@ -10,6 +10,9 @@ import _StringProcessing
 import _SwiftConcurrencyShims
 public func fontColor(text: Swift.String, colorText: Swift.String, color: UIKit.UIColor, label: UIKit.UILabel)
 extension UIKit.UIView {
+  @_Concurrency.MainActor @preconcurrency public static func addKeyboardToolbar(withDoneButton doneAction: @escaping () -> Swift.Void, clearButtonAction: @escaping () -> Swift.Void) -> UIKit.UIToolbar
+}
+extension UIKit.UIView {
   @_Concurrency.MainActor @preconcurrency public func addTapGestureRecognizer(action: (() -> Swift.Void)?)
 }
 @objc @_inheritsConvenienceInitializers public class C2CConstantFile : ObjectiveC.NSObject {
