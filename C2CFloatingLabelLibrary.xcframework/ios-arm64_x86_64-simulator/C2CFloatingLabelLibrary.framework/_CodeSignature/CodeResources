@@ -10,47 +10,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		s8Etles/7jJnX2T9o1i0q8coa2o=
+		GyvXHMgMdU4K6nktudWJCn6Qjl0=
 		</data>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		d5PSpQsYZwmZoG5A8EH3AllTR9g=
+		KTg7lwLoSFDd8c+eRGb+67m9W9w=
 		</data>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		vs8Fngc3DByp37ghvrzYCOAj6Xk=
+		jHXbQpuVsnsUyXVCEMAi9ZU8yYc=
 		</data>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		TZN0hISoNwpwIKVCmDzz9x/DHFM=
+		5c2BQ1rq8MpUAEJjhQCTVdUQBME=
 		</data>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		vs8Fngc3DByp37ghvrzYCOAj6Xk=
+		jHXbQpuVsnsUyXVCEMAi9ZU8yYc=
 		</data>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		nMtQR9ec/uv4RgV92kn0GyrJKTM=
+		xU2ItJeCB/1remazdjeQ/c/30Ic=
 		</data>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		d5PSpQsYZwmZoG5A8EH3AllTR9g=
+		KTg7lwLoSFDd8c+eRGb+67m9W9w=
 		</data>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Cjhr1JRLb0KobUgSq4ShoQXWmf8=
+		860zxFRVy+ufDJvwOwFbustsJu4=
 		</data>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		+Clr17Dw5ndA6vIK4+yQDw97KnM=
+		czXHmN6SBfKyHSylsu8vWSX1l9I=
 		</data>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Cjhr1JRLb0KobUgSq4ShoQXWmf8=
+		860zxFRVy+ufDJvwOwFbustsJu4=
 		</data>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cPZV8Je73v2K3TX253yfnX8JykQ=
+		Ns4b4KrVTpi/5uGBnGL+6JU3IFg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -74,70 +74,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zGU7Wyo8HLsV5DYxADPpQEita+79DJDPVhyYth8lhWU=
+			Vg6iKueLCXp6b57T/vLlNlPdiX3OqEBwVUOSim/KvjQ=
 			</data>
 		</dict>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m6WUGC2DAmQUJR5Ytr5FFwsJBh8LhckAS4FZW6vgIPI=
+			6Ub6XvAUt4qJfguJn5kpUfhvSgZJJXyBIwBNgt8QceQ=
 			</data>
 		</dict>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CZUt/CjKE9urK4vsztf/E0jj5Zb334vMjoYROHm/hBM=
+			DZAWlTn5mSV0IC9lrP++lnrjs/5HkC+2Cf5IiEY/zRw=
 			</data>
 		</dict>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m6WUGC2DAmQUJR5Ytr5FFwsJBh8LhckAS4FZW6vgIPI=
+			6Ub6XvAUt4qJfguJn5kpUfhvSgZJJXyBIwBNgt8QceQ=
 			</data>
 		</dict>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b4DUWH10NmhTCncIcajdEpNgraJaVmoI2Ewc5bYh1Pk=
+			+hf+f1RQd8iNI0fLfQ45ul9NC3zJFng4eW3m2gVEj3g=
 			</data>
 		</dict>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zGU7Wyo8HLsV5DYxADPpQEita+79DJDPVhyYth8lhWU=
+			Vg6iKueLCXp6b57T/vLlNlPdiX3OqEBwVUOSim/KvjQ=
 			</data>
 		</dict>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7oiNeLSUk1PMgQqq+JlWj/IeGrJFz3x8DSfs6eUw8m8=
+			wW5UTuAXYVql0MeJrSGBjF1uJlizJP5HDMwt+RYWQuQ=
 			</data>
 		</dict>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3jBl70g6LVl5xXt4HaEEuUHjw4LtdDGX/wQvvDWp0SI=
+			BUbonf1BDNyWpTLh4A0yk/0l0Zq36EPok/QAI50ue1w=
 			</data>
 		</dict>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7oiNeLSUk1PMgQqq+JlWj/IeGrJFz3x8DSfs6eUw8m8=
+			wW5UTuAXYVql0MeJrSGBjF1uJlizJP5HDMwt+RYWQuQ=
 			</data>
 		</dict>
 		<key>Modules/C2CFloatingLabelLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			apFXRjgHuPCx/5zoj9mSEDCImsKmz3z67BfWzDF+O/4=
+			asKKm7YpYzI9AMXClw10Yri3zz7hsKybz7kMjakg32A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

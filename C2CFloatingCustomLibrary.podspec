@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'C2CFloatingCustomLibrary'
-  s.version          = '1.0'
+  s.version          = '1.1'
   s.summary          = 'C2CFloatingCustomLibrary is a simple, effective, and flexible library for easily adding floating labels and validation.'
 
 # This description is used to generate tags and improve search results.
